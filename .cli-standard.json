@@ -1,0 +1,5 @@
+{
+  "exceptions": {
+    "AUTH-LOGIN": "Monarch has no page that issues an API key. The CLI signs in the way Monarch's own app does: email and password at the terminal, then the code Monarch emails or the authenticator shows. No local sign-in server exists, so there is nothing to bind or lock down. `login --paste` still accepts a token."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://api.monarch.com",
+  "account": "default",
+  "readOnly": false,
+  "timeoutMs": 30000,
+  "email": "you@example.com",
+  "deviceId": "6f1c2b7e-4d3a-4f5b-9c8d-1e2f3a4b5c6d",
+  "codeCommand": "/path/to/print-monarch-code"
+}
